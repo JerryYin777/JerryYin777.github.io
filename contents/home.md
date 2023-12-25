@@ -18,7 +18,7 @@ Before transferring to University of Minnesota, I was studying in Nanchang Unive
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
 #### Skills
-* Deep Learning
+* **Deep Learning**
 * Artificial Intelligence Seismology, Mine Microseismic.
 
 #### S
