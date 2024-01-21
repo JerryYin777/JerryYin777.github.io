@@ -1,10 +1,10 @@
 # A simple Github Pages template for academic personal website.
 
-[![Screenshot of the Website](https://github.com/JerryYin777/JerryYin777.github.io/blob/master/screenshot.png)](https://jerryyin777.github.io/)
+[![Screenshot of the Website](https://github.com/JerryYin777/JerryYin777.github.io/blob/master/screenshot.png)](https://jerrysys.top/)
 
 ## Introduction
 
-This is an academic personal website (Congrui Yin) template based on bootstrap. This demo refers to [senli1073](https://github.com/senli1073/senli1073.github.io), thx to Mr.Sen Li.
+This is an academic personal website (Congrui Yin) template based on bootstrap. This demo refers to [senli1073](https://github.com/senli1073/senli1073.github.io), thx to Mr.Sen Li's template.
 
 This template supports markdown files as input content, and you don't need to build the webpage before deployment. When the webpage is loaded, the markdown files will be automatically parsed and embedded into the page.
 
@@ -55,4 +55,4 @@ Fire up a browser and go to `https://<username>.github.io`
 
 ## License
 
-Copyright 2023, Congrui Yin and controlled via the MIT license, a permissive open-source (free software) license. You can copy and mess with this template.
+Copyright 2024, Congrui Yin and controlled via the MIT license, a permissive open-source (free software) license. You can copy and mess with this template.
