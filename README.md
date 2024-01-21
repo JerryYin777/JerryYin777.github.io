@@ -8,7 +8,7 @@ This is an academic personal website (Congrui Yin) template based on bootstrap. 
 
 This template supports markdown files as input content, and you don't need to build the webpage before deployment. When the webpage is loaded, the markdown files will be automatically parsed and embedded into the page.
 
-Demo: https://jerryyin777.github.io/
+Demo: https://jerrysys.top
 
 
 ## Getting Start
