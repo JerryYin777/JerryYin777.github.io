@@ -19,7 +19,7 @@ My current passion revolves around building **EFFICIENT** system solutions to AG
 
 1. <strong><strong>Machine Learning System</strong></strong> 
     * Training: Design more effective training system and algorithms, examples include [BMTrain](https://github.com/OpenBMB/BMTrain).
-    * Quantization (e.g. Attempting to finetune Llama 3.1 405B on a single A100 80GB GPU), the other example includes [IAPT](https://arxiv.org/pdf/2405.18203).
+    * Quantization
     * Long context inference: example includes [Cross Layer Attention](https://github.com/JerryYin777/Cross-Layer-Attention).
 2. <strong><strong>LLM(VLM) for RELIABLE Hardware Design</strong></strong> 
     * Synthesise pretraining and finetuning common knowledge of CodeLLM, exploring the boundary capabilities of LLM/VLM for hardware design (e.g. pretrain/finetune a VerilogLLM).
