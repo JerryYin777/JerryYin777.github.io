@@ -1,3 +1,4 @@
+For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en)
 
 - *W. Zhu, Y. Ni, <strong><strong>C. Yin</strong></strong>, A. Tian, X. Wang, G. Xie. (2024). IAPT: Instance-Aware Prompt Turing for Large Language Models. The 62nd Annual Meeting of the Association for Computational Linguistics <strong><strong>(ACL 2024)</strong></strong>.*[[Paper]](https://arxiv.org/pdf/2405.18203)
 
