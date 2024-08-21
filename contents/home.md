@@ -10,7 +10,7 @@ I am currently a senior Undergraduate Student pursuing a bachelor's Degree in co
 I have experience in NLP and computer systems(both architecture and high performance machine learning systems), along with extensive industry research internship experience. This includes:
 
 * Participating in the pretraining of the Yi-Large model at 01.AI.
-* Contributing to ML Infra of the pretraining of the on-device small model [MiniCPM-2B](https://huggingface.co/collections/openbmb/minicpm-2b-65d48bf958302b9fd25b698f) at ModelBest (with TsinghuaNLP)
+* Contributing to ML Infra of the pretraining of the foundation model at ModelBest (with TsinghuaNLP)
 * Participating in the finetuning of the CodeLLM [Raccoon](https://raccoon.sensetime.com/code) (Copilot-like) at SenseTime (with CUHK MMLab).
 
 #### Research Interests
