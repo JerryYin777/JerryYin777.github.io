@@ -1,4 +1,12 @@
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-yin-a21314292/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryYin777)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en#)
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/ycr222/posts)
+
+
+
+
 #### News
 
 <strong style="color:red;"><strong>I’m actively looking for Machine Learning System and MLLM/LLM Industrial/Research Opportunity.</strong></strong> If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
@@ -36,5 +44,7 @@ My current passion revolves around building **EFFICIENT** system solutions to AG
 * I love league of legends and valorant games!
 
 #### Contact<p id="contact-info"></p>
+
+</strong></strong>I am very enthusiastic about discussing academic issues or any interesting project-related topics! </strong></strong> If you'd like to engage in a discussion or collaborate, feel free to contact me via email at any time. If you're an undergraduate student feeling uncertain, especially from a diverse background, and hope to gain some learning experiences from me, I also warmly welcome that!
 
 * ✉️ [yin00486 [at] umn.edu](mailto:yin00486@umn.edu)
