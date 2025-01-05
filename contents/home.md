@@ -12,7 +12,7 @@
 
 #### Biography
 
-My name is Jerry Yin. I am currently a senior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twin Cities, supervised by Prof. [Zirui Liu](https://zirui-ray-liu.github.io/) and [Jiayi Yuan](https://jy-yuan.github.io/) (Ph.D. Candidate). In the summer of 2023, I visited [TsinghuaNLP](https://github.com/thunlp) and conducted research under Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), where I received invaluable mentorship from [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992) (Ph.D. Candidate) and [Xu Han](https://thucsthanxu13.github.io/) (Research Assistant Professor), for which I am deeply grateful.
+My name is Jerry Yin. I got my bachelor Degree in computer science at University of Minnesota Twin Cities in December 2024, supervised by Prof. [Zirui Liu](https://zirui-ray-liu.github.io/) and [Jiayi Yuan](https://jy-yuan.github.io/) (Ph.D. Candidate). In the summer of 2023, I visited [TsinghuaNLP](https://github.com/thunlp) and conducted research under Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), where I received invaluable mentorship from [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992) (Ph.D. Candidate) and [Xu Han](https://thucsthanxu13.github.io/) (Research Assistant Professor), for which I am deeply grateful.
 
 I have experience in NLP and computer systems(both architecture and high performance machine learning systems), along with extensive industry research internship experience. This includes:
 
