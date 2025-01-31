@@ -7,12 +7,17 @@
 
 #### News
 
-<strong style="color:red;"><strong>I’m actively looking for Machine Learning System and O1/MLLM/LLM Industrial/Research Opportunity.</strong></strong> If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+* <strong style="color:red;"><strong>I’m actively looking for Machine Learning System and O1/MLLM/LLM Industrial/Research Opportunity.</strong></strong> <strong><strong>This includes</strong></strong> 
+    * Train more powerful reasoning models like [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview). 
+    * Improve RLHF training frameworks in the direction of reinforcement learning (such as [veRL](https://github.com/volcengine/verl) and [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)).
+    * Develop robust inference frameworks like [SGLang](https://github.com/sgl-project/sglang).
+
+If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
 
 
 #### Biography
 
-My name is Jerry Yin. I got my bachelor Degree in computer science at University of Minnesota Twin Cities in December 2024, supervised by Prof. [Zirui Liu](https://zirui-ray-liu.github.io/) and [Jiayi Yuan](https://jy-yuan.github.io/) (Ph.D. Candidate). In the summer of 2023, I visited [TsinghuaNLP](https://github.com/thunlp) and conducted research under Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), where I received invaluable mentorship from [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992) (Ph.D. Candidate) and [Xu Han](https://thucsthanxu13.github.io/) (Research Assistant Professor), for which I am deeply grateful.
+My name is Jerry Yin. I got my bachelor Degree in computer science with Distinction at University of Minnesota Twin Cities in December 2024, supervised by Prof. [Zirui Liu](https://zirui-ray-liu.github.io/) and [Jiayi Yuan](https://jy-yuan.github.io/) (Ph.D. Candidate). In the summer of 2023, I visited [TsinghuaNLP](https://github.com/thunlp) and conducted research under Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), where I received invaluable mentorship from [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992) (Ph.D. Candidate) and [Xu Han](https://thucsthanxu13.github.io/) (Research Assistant Professor), for which I am deeply grateful.
 
 I have experience in NLP and computer systems(both architecture and high performance machine learning systems), along with extensive industry research internship experience. This includes:
 
@@ -32,6 +37,19 @@ My current passion revolves around building **EFFICIENT** system solutions to AG
     * CodeLLM
     * Foundation LLM (Yi-lightning)
     * RAG (GraphRAG): Examples includes [PaperHelper](https://github.com/JerryYin777/PaperHelper).
+
+#### Education
+
+🕒 **2023.12 - 2024.12**  
+📍 **University of Minnesota Twin Cities**  
+🎓 **B.A. in Computer Science with Distinction**
+
+---
+
+🕒 **2021.9 - 2023.8** *(Transferred Out)*  
+📍 **Nanchang University**  
+🎓 **B.Eng. in Artificial Intelligence**
+
 
 #### Misc
 
