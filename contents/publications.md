@@ -1,5 +1,7 @@
 For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en).
 
+- <strong><strong>*C. Yin</strong></strong>, E. Wei, Z. Zhang, Z. Zhan. (2025). PaperHelper: Knowledge-Based LLM QA Paper Reading Assistant. arXiv Preprint.*[[Paper]](https://arxiv.org/abs/2502.14271)
+
 - *Y. Zhao, <strong><strong>C. Yin</strong></strong>, X. Tian, Y. Ge. (2024). FanLoRA: Fantastic LoRAs and Where to Find Them in Large Language Model Fine-tuning. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing <strong><strong>(EMNLP 2024)</strong></strong>.*[[Paper]](https://aclanthology.org/2024.emnlp-industry.38.pdf)
 
 - *W. Zhu, Y. Ni, <strong><strong>C. Yin</strong></strong>, A. Tian, X. Wang, G. Xie. (2024). IAPT: Instance-Aware Prompt Turing for Large Language Models. The 62nd Annual Meeting of the Association for Computational Linguistics <strong><strong>(ACL 2024)</strong></strong>.*[[Paper]](https://aclanthology.org/2024.acl-long.771.pdf)
